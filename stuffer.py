@@ -18,4 +18,4 @@ f.close()
 print('[*]Stuffed file generated: %s' % os.path.join(os.getcwd(), nam))
 print("[*]File size:"+str(len//1048576)+"MiB(s)"+str(len//1024)+"KiB(s)"+str(len%1024)+"Byte(s)")
 
-#Written by HushKante ,2023.5.1,15:32,UTC+8:00
+#Written by HushKante 2023.5.1
